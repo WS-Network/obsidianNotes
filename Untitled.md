@@ -1,0 +1,18 @@
+
+
+| **Category**                    | **Details**                              | **Devices Included** | **Price/Month** | **Bundle Price** | **Discount** | **Features**                                                                          |
+| ------------------------------- | ---------------------------------------- | -------------------- | --------------- | ---------------- | ------------ | ------------------------------------------------------------------------------------- |
+| **Device Pricing**              | Single Device                            | 1                    | N/A             | $1,200           | N/A          | High-quality networking device with individual purchase flexibility.                  |
+|                                 | Starter Bundle                           | 10                   | N/A             | $10,800          | 10% off      | Cost-effective option for small ISPs, includes basic management features.             |
+|                                 | Growth Bundle                            | 50                   | N/A             | $51,000          | 15% off      | Mid-sized ISP solution with scalable features.                                        |
+|                                 | Enterprise Bundle                        | 100+                 | N/A             | $96,000          | 20% off      | Advanced solution for large ISPs, built for scalability and comprehensive management. |
+| **Management Pricing**          | Enthusiast Account                       | Up to 3              | $20-$50         | N/A              | N/A          | Core management for individuals or small setups.                                      |
+|                                 | Base Tier                                | Up to 100            | $1,000          | N/A              | N/A          | Standard features, perfect for smaller ISPs.                                          |
+|                                 | Mid Tier                                 | Up to 200            | $1,500          | N/A              | N/A          | Enhanced tools and analytics for mid-sized ISPs.                                      |
+|                                 | Advanced Tier                            | 200-500              | $2,500          | N/A              | N/A          | Advanced analytics, ideal for larger ISPs.                                            |
+|                                 | Premium Tier                             | 500+                 | $3,500          | N/A              | N/A          | Full suite of tools, analytics, and priority support for enterprises.                 |
+| **Device + Management Bundles** | Starter Bundle (Devices + Management)    | 10 devices           | $1,000          | $10,800          | 10% off      | Starter bundle + Base Tier management for small ISPs.                                 |
+|                                 | Growth Bundle (Devices + Management)     | 50 devices           | $2,500          | $51,000          | 15% off      | Growth bundle + Advanced Tier management for mid-sized ISPs.                          |
+|                                 | Enterprise Bundle (Devices + Management) | 100+ devices         | $3,500          | $96,000          | 20% off      | Enterprise bundle + Premium Tier management for large-scale ISPs.                     |
+
+This table consolidates all pricing tiers and bundle options for easy reference. Let me know if you’d like any modifications!
