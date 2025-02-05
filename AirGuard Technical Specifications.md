@@ -183,13 +183,13 @@ This feature will enable government agencies to:
 
 ### **3. Management Platform Pricing**
 
-|   |   |   |
-|---|---|---|
-|Plan|Monthly Price|Features|
-|Basic|$1,000|Core network tools, standard support|
-|Professional|$1,500|Advanced analytics, AI optimization|
-|Advanced|$2,500|Energy monitoring, 24/7 support|
-|Enterprise|$3,500|Self-healing networks, dedicated team|
+| Plan         | Monthly Price | Features                              |
+| ------------ | ------------- | ------------------------------------- |
+| Basic        | $1,000        | Core network tools, standard support  |
+| Professional | $1,500        | Advanced analytics, AI optimization   |
+| Advanced     | $2,500        | Energy monitoring, 24/7 support       |
+| Enterprise   | $3,500        | Self-healing networks, dedicated team |
+
 
 ---
 
